@@ -18,6 +18,6 @@
 Contato: 
 [![Linkedin Badge](https://img.shields.io/badge/-RicksonAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickson-alves/)](https://www.linkedin.com/in/rickson-alves/) 
 |
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rickson.sa@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-rickson.alves.sa@gmail.com-c14438?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rickson.alves.sa@gmail.com)](mailto:rickson.alves.sa@gmail.com)
 |
 [![Gmail Badge](https://img.shields.io/badge/-rickson.alves.sa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rickson.alves.sa@gmail.com)](mailto:rickson.alves.sa@gmail.com)
