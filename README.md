@@ -1,4 +1,12 @@
-### Hi there 👋
+<img src="https://www.testbytes.net/wp-content/uploads/2019/06/Untitled-65.png">
+
+
+### Contact: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-RicksonAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickson-alves/)](https://www.linkedin.com/in/rickson-alves/) 
+|
+[![Outlook Badge](https://img.shields.io/badge/-rickson.alves.sa@gmail.com-c-blue?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rickson.sa@outlook.com)](mailto:rickson.sa@outlook.com)
+
 
 ### Tech & Tools Preference
 
@@ -15,9 +23,3 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
-Contato: 
-[![Linkedin Badge](https://img.shields.io/badge/-RicksonAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickson-alves/)](https://www.linkedin.com/in/rickson-alves/) 
-|
-[![Outlook Badge](https://img.shields.io/badge/-rickson.alves.sa@gmail.com-c0120212?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rickson.sa@outlook.com)](mailto:rickson.sa@outlook.com)
-|
-[![Gmail Badge](https://img.shields.io/badge/-rickson.alves.sa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rickson.alves.sa@gmail.com)](mailto:rickson.alves.sa@gmail.com)
