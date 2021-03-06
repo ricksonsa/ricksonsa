@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-RicksonAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickson-alves/)](https://www.linkedin.com/in/rickson-alves/) 
 |
-[![Outlook Badge](https://img.shields.io/badge/-rickson.sa@outlook.com-c-007ACC?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rickson.sa@outlook.com)](mailto:rickson.sa@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-rickson.sa@outlook.com-c-81174?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rickson.sa@outlook.com)](mailto:rickson.sa@outlook.com)
 
 
 ### Tech & Tools Preference
